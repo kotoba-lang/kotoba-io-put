@@ -1,4 +1,4 @@
-# io-put
+# kotoba-io-put
 
 `kotoba.io.put/put`
 
